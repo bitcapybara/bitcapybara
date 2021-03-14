@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bitcapybara
+- 👀 I’m interested in golang, raft
+- 🌱 I’m currently learning raft
