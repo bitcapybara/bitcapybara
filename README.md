@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @bitcapybara
-- 👀 I’m interested in golang, raft
-- 🌱 I’m currently learning raft
+- 👀 I’m interested in raft, mqtt
+- 🌱 I’m currently learning raft, mqtt
